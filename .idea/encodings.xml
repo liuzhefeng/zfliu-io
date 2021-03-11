@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zfliu/bio_chatroom/client/ChatClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zfliu/bio_chatroom/client/UserInputHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zfliu/bio_chatroom/server/ChatHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zfliu/bio_chatroom/server/ChatServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zfliu/socket/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zfliu/socket/Server.java" charset="GBK" />
+  </component>
+</project>
